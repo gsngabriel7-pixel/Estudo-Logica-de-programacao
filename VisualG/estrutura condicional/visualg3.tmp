@@ -1,0 +1,23 @@
+Algoritmo "Calculo de glicose"
+// programa para verificar se a glicose no sangue da pessoa é normal,elevado ou
+//tem diabetes
+Var
+glicose : real
+
+Inicio
+escreva("Qual a quantidade de glicose no sangue?")
+leia(glicose)
+
+
+se (glicose < 100)entao
+escreva("seu nivel de glicose está normal")
+
+senao (glicose < 140 ) entao
+escreva("seu nivel de glicose está elevado")
+
+senao (glicose > 140) entao
+escreva("seu nivel de glicose pode causar diabetes")
+fimse
+
+
+Fimalgoritmo
