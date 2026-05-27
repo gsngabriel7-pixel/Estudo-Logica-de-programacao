@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1779820883 source:h:\workspace\c\retangulo\main.c
+	<stdio.h>
+	<math.h>
+
