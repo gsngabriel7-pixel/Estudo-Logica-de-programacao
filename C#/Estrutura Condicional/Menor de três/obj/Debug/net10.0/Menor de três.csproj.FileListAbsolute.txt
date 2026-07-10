@@ -1,0 +1,14 @@
+h:\Workspace\C#\Estrutura Condicional\Menor de três\bin\Debug\net10.0\Menor de três.exe
+h:\Workspace\C#\Estrutura Condicional\Menor de três\bin\Debug\net10.0\Menor de três.deps.json
+h:\Workspace\C#\Estrutura Condicional\Menor de três\bin\Debug\net10.0\Menor de três.runtimeconfig.json
+h:\Workspace\C#\Estrutura Condicional\Menor de três\bin\Debug\net10.0\Menor de três.dll
+h:\Workspace\C#\Estrutura Condicional\Menor de três\bin\Debug\net10.0\Menor de três.pdb
+h:\Workspace\C#\Estrutura Condicional\Menor de três\obj\Debug\net10.0\Menor de três.GeneratedMSBuildEditorConfig.editorconfig
+h:\Workspace\C#\Estrutura Condicional\Menor de três\obj\Debug\net10.0\Menor de três.AssemblyInfoInputs.cache
+h:\Workspace\C#\Estrutura Condicional\Menor de três\obj\Debug\net10.0\Menor de três.AssemblyInfo.cs
+h:\Workspace\C#\Estrutura Condicional\Menor de três\obj\Debug\net10.0\Menor de três.csproj.CoreCompileInputs.cache
+h:\Workspace\C#\Estrutura Condicional\Menor de três\obj\Debug\net10.0\Menor de três.dll
+h:\Workspace\C#\Estrutura Condicional\Menor de três\obj\Debug\net10.0\refint\Menor de três.dll
+h:\Workspace\C#\Estrutura Condicional\Menor de três\obj\Debug\net10.0\Menor de três.pdb
+h:\Workspace\C#\Estrutura Condicional\Menor de três\obj\Debug\net10.0\Menor de três.genruntimeconfig.cache
+h:\Workspace\C#\Estrutura Condicional\Menor de três\obj\Debug\net10.0\ref\Menor de três.dll

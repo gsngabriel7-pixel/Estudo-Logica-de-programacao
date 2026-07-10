@@ -1,0 +1,14 @@
+h:\Workspace\C#\Idades\obj\Debug\net10.0\Idades.GeneratedMSBuildEditorConfig.editorconfig
+h:\Workspace\C#\Idades\obj\Debug\net10.0\Idades.AssemblyInfoInputs.cache
+h:\Workspace\C#\Idades\obj\Debug\net10.0\Idades.AssemblyInfo.cs
+h:\Workspace\C#\Idades\obj\Debug\net10.0\Idades.csproj.CoreCompileInputs.cache
+h:\Workspace\C#\Idades\bin\Debug\net10.0\Idades.exe
+h:\Workspace\C#\Idades\bin\Debug\net10.0\Idades.deps.json
+h:\Workspace\C#\Idades\bin\Debug\net10.0\Idades.runtimeconfig.json
+h:\Workspace\C#\Idades\bin\Debug\net10.0\Idades.dll
+h:\Workspace\C#\Idades\bin\Debug\net10.0\Idades.pdb
+h:\Workspace\C#\Idades\obj\Debug\net10.0\Idades.dll
+h:\Workspace\C#\Idades\obj\Debug\net10.0\refint\Idades.dll
+h:\Workspace\C#\Idades\obj\Debug\net10.0\Idades.pdb
+h:\Workspace\C#\Idades\obj\Debug\net10.0\Idades.genruntimeconfig.cache
+h:\Workspace\C#\Idades\obj\Debug\net10.0\ref\Idades.dll
