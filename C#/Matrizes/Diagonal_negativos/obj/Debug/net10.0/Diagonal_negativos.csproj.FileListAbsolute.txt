@@ -1,0 +1,14 @@
+H:\Workspace\C#\Matrizes\Diagonal_negativos\bin\Debug\net10.0\Diagonal_negativos.exe
+H:\Workspace\C#\Matrizes\Diagonal_negativos\bin\Debug\net10.0\Diagonal_negativos.deps.json
+H:\Workspace\C#\Matrizes\Diagonal_negativos\bin\Debug\net10.0\Diagonal_negativos.runtimeconfig.json
+H:\Workspace\C#\Matrizes\Diagonal_negativos\bin\Debug\net10.0\Diagonal_negativos.dll
+H:\Workspace\C#\Matrizes\Diagonal_negativos\bin\Debug\net10.0\Diagonal_negativos.pdb
+H:\Workspace\C#\Matrizes\Diagonal_negativos\obj\Debug\net10.0\Diagonal_negativos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\C#\Matrizes\Diagonal_negativos\obj\Debug\net10.0\Diagonal_negativos.AssemblyInfoInputs.cache
+H:\Workspace\C#\Matrizes\Diagonal_negativos\obj\Debug\net10.0\Diagonal_negativos.AssemblyInfo.cs
+H:\Workspace\C#\Matrizes\Diagonal_negativos\obj\Debug\net10.0\Diagonal_negativos.csproj.CoreCompileInputs.cache
+H:\Workspace\C#\Matrizes\Diagonal_negativos\obj\Debug\net10.0\Diagonal_negativos.dll
+H:\Workspace\C#\Matrizes\Diagonal_negativos\obj\Debug\net10.0\refint\Diagonal_negativos.dll
+H:\Workspace\C#\Matrizes\Diagonal_negativos\obj\Debug\net10.0\Diagonal_negativos.pdb
+H:\Workspace\C#\Matrizes\Diagonal_negativos\obj\Debug\net10.0\Diagonal_negativos.genruntimeconfig.cache
+H:\Workspace\C#\Matrizes\Diagonal_negativos\obj\Debug\net10.0\ref\Diagonal_negativos.dll

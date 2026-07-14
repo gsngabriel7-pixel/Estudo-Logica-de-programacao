@@ -1,0 +1,14 @@
+H:\Workspace\C#\Estrutura Para\Soma_impares\bin\Debug\net10.0\Soma_impares.exe
+H:\Workspace\C#\Estrutura Para\Soma_impares\bin\Debug\net10.0\Soma_impares.deps.json
+H:\Workspace\C#\Estrutura Para\Soma_impares\bin\Debug\net10.0\Soma_impares.runtimeconfig.json
+H:\Workspace\C#\Estrutura Para\Soma_impares\bin\Debug\net10.0\Soma_impares.dll
+H:\Workspace\C#\Estrutura Para\Soma_impares\bin\Debug\net10.0\Soma_impares.pdb
+H:\Workspace\C#\Estrutura Para\Soma_impares\obj\Debug\net10.0\Soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\C#\Estrutura Para\Soma_impares\obj\Debug\net10.0\Soma_impares.AssemblyInfoInputs.cache
+H:\Workspace\C#\Estrutura Para\Soma_impares\obj\Debug\net10.0\Soma_impares.AssemblyInfo.cs
+H:\Workspace\C#\Estrutura Para\Soma_impares\obj\Debug\net10.0\Soma_impares.csproj.CoreCompileInputs.cache
+H:\Workspace\C#\Estrutura Para\Soma_impares\obj\Debug\net10.0\Soma_impares.dll
+H:\Workspace\C#\Estrutura Para\Soma_impares\obj\Debug\net10.0\refint\Soma_impares.dll
+H:\Workspace\C#\Estrutura Para\Soma_impares\obj\Debug\net10.0\Soma_impares.pdb
+H:\Workspace\C#\Estrutura Para\Soma_impares\obj\Debug\net10.0\Soma_impares.genruntimeconfig.cache
+H:\Workspace\C#\Estrutura Para\Soma_impares\obj\Debug\net10.0\ref\Soma_impares.dll

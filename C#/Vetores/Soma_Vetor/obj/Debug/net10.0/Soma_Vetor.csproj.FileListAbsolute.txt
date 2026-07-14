@@ -1,0 +1,14 @@
+H:\Workspace\C#\Vetores\Soma_Vetor\bin\Debug\net10.0\Soma_Vetor.exe
+H:\Workspace\C#\Vetores\Soma_Vetor\bin\Debug\net10.0\Soma_Vetor.deps.json
+H:\Workspace\C#\Vetores\Soma_Vetor\bin\Debug\net10.0\Soma_Vetor.runtimeconfig.json
+H:\Workspace\C#\Vetores\Soma_Vetor\bin\Debug\net10.0\Soma_Vetor.dll
+H:\Workspace\C#\Vetores\Soma_Vetor\bin\Debug\net10.0\Soma_Vetor.pdb
+H:\Workspace\C#\Vetores\Soma_Vetor\obj\Debug\net10.0\Soma_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\C#\Vetores\Soma_Vetor\obj\Debug\net10.0\Soma_Vetor.AssemblyInfoInputs.cache
+H:\Workspace\C#\Vetores\Soma_Vetor\obj\Debug\net10.0\Soma_Vetor.AssemblyInfo.cs
+H:\Workspace\C#\Vetores\Soma_Vetor\obj\Debug\net10.0\Soma_Vetor.csproj.CoreCompileInputs.cache
+H:\Workspace\C#\Vetores\Soma_Vetor\obj\Debug\net10.0\Soma_Vetor.dll
+H:\Workspace\C#\Vetores\Soma_Vetor\obj\Debug\net10.0\refint\Soma_Vetor.dll
+H:\Workspace\C#\Vetores\Soma_Vetor\obj\Debug\net10.0\Soma_Vetor.pdb
+H:\Workspace\C#\Vetores\Soma_Vetor\obj\Debug\net10.0\Soma_Vetor.genruntimeconfig.cache
+H:\Workspace\C#\Vetores\Soma_Vetor\obj\Debug\net10.0\ref\Soma_Vetor.dll

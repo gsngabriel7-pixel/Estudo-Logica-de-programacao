@@ -1,0 +1,14 @@
+H:\Workspace\C#\Estrutura Enquanto\Crescente\bin\Debug\net10.0\Crescente.exe
+H:\Workspace\C#\Estrutura Enquanto\Crescente\bin\Debug\net10.0\Crescente.deps.json
+H:\Workspace\C#\Estrutura Enquanto\Crescente\bin\Debug\net10.0\Crescente.runtimeconfig.json
+H:\Workspace\C#\Estrutura Enquanto\Crescente\bin\Debug\net10.0\Crescente.dll
+H:\Workspace\C#\Estrutura Enquanto\Crescente\bin\Debug\net10.0\Crescente.pdb
+H:\Workspace\C#\Estrutura Enquanto\Crescente\obj\Debug\net10.0\Crescente.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\C#\Estrutura Enquanto\Crescente\obj\Debug\net10.0\Crescente.AssemblyInfoInputs.cache
+H:\Workspace\C#\Estrutura Enquanto\Crescente\obj\Debug\net10.0\Crescente.AssemblyInfo.cs
+H:\Workspace\C#\Estrutura Enquanto\Crescente\obj\Debug\net10.0\Crescente.csproj.CoreCompileInputs.cache
+H:\Workspace\C#\Estrutura Enquanto\Crescente\obj\Debug\net10.0\Crescente.dll
+H:\Workspace\C#\Estrutura Enquanto\Crescente\obj\Debug\net10.0\refint\Crescente.dll
+H:\Workspace\C#\Estrutura Enquanto\Crescente\obj\Debug\net10.0\Crescente.pdb
+H:\Workspace\C#\Estrutura Enquanto\Crescente\obj\Debug\net10.0\Crescente.genruntimeconfig.cache
+H:\Workspace\C#\Estrutura Enquanto\Crescente\obj\Debug\net10.0\ref\Crescente.dll
